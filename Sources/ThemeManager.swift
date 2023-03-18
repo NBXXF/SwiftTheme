@@ -42,7 +42,7 @@ public enum ThemePath {
     }
 }
 
-@objc public final class ThemeManager: NSObject {
+@objc public class ThemeManager: NSObject {
     
     @objc public static var animationDuration = 0.3
     
